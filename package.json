@@ -1,0 +1,24 @@
+{
+  "name": "HirenGap",
+  "version": "0.0.4",
+  "description": "Phone Gap build from terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pyprism/PyGap.git"
+  },
+  "keywords": [
+    "Phonegap",
+    "Phonegap",
+    "Build"
+  ],
+  "author": "Ashutosh Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pyprism/PyGap/issues"
+  },
+  "homepage": "https://github.com/pyprism/PyGap"
+}
