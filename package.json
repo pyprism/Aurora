@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/pyprism/PyGap/issues"
   },
-  "homepage": "https://github.com/pyprism/PyGap"
+  "homepage": "https://github.com/pyprism/PyGap",
+  "dependencies": {
+    "cli-color": "^0.2.3",
+    "cli-table": "^0.3.0",
+    "request": "^2.34.0"
+  }
 }
