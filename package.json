@@ -24,6 +24,8 @@
   "dependencies": {
     "cli-color": "^0.2.3",
     "cli-table": "^0.3.0",
+    "homedir": "^0.3.0",
+    "phonegap-build-api": "^0.3.3",
     "request": "^2.34.0"
   }
 }
