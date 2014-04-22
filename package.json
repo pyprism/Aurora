@@ -1,6 +1,7 @@
 {
   "name": "HirenGap",
   "version": "0.0.4",
+  "preferGlobal": true ,
   "description": "Phone Gap build from terminal",
   "main": "index.js",
   "scripts": {
