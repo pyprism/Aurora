@@ -1,9 +1,0 @@
-/**
- * Created by prism on 4/9/14.
- */
-var config = {
-    username : 'your email' ,
-    password : 'pass'
-};
-
-module.exports = config;
