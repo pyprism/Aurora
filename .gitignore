@@ -99,6 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
-logs/*
+logs/*.log*
 .idea
 config.local.json
